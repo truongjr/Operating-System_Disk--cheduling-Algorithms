@@ -1,1 +1,1 @@
-# Operating-System_Disk--cheduling-Algorithms
+# Operating-System_Disk-cheduling-Algorithms
