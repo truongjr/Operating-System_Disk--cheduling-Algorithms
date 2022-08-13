@@ -1,4 +1,4 @@
-# Operating-System_Disk-cheduling-Algorithms
+# Disk-cheduling-Algorithms
 
 The library are used winbgim
 
